@@ -1,0 +1,1602 @@
+[
+    {
+        "ID": "1",
+        "Country": "Afghanistan",
+        "City": "Kabul",
+        "Latitude": "34.5553",
+        "Longitude": "69.1772",
+        "GMT Offset": "4.5"
+    },
+    {
+        "ID": "2",
+        "Country": "Afghanistan",
+        "City": "Kandahar",
+        "Latitude": "31.6289",
+        "Longitude": "65.7372",
+        "GMT Offset": "4.5"
+    },
+    {
+        "ID": "3",
+        "Country": "Afghanistan",
+        "City": "Herat",
+        "Latitude": "34.3419",
+        "Longitude": "62.2031",
+        "GMT Offset": "4.5"
+    },
+    {
+        "ID": "4",
+        "Country": "Afghanistan",
+        "City": "Mazar",
+        "Latitude": "36.6998",
+        "Longitude": "67.1109",
+        "GMT Offset": "4.5"
+    },
+    {
+        "ID": "5",
+        "Country": "Afghanistan",
+        "City": "Jalalabad",
+        "Latitude": "34.4261",
+        "Longitude": "70.4514",
+        "GMT Offset": "4.5"
+    },
+    {
+        "ID": "6",
+        "Country": "Algeria",
+        "City": "Algiers",
+        "Latitude": "36.7538",
+        "Longitude": "3.0588",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "7",
+        "Country": "Algeria",
+        "City": "Oran",
+        "Latitude": "35.6981",
+        "Longitude": "-0.6331",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "8",
+        "Country": "Algeria",
+        "City": "Constantine",
+        "Latitude": "36.365",
+        "Longitude": "6.6147",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "9",
+        "Country": "Algeria",
+        "City": "Annaba",
+        "Latitude": "36.9",
+        "Longitude": "7.7667",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "10",
+        "Country": "Algeria",
+        "City": "Blida",
+        "Latitude": "36.47",
+        "Longitude": "2.8277",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "11",
+        "Country": "Azerbaijan",
+        "City": "Baku",
+        "Latitude": "40.4093",
+        "Longitude": "49.8671",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "12",
+        "Country": "Azerbaijan",
+        "City": "Ganja",
+        "Latitude": "40.6828",
+        "Longitude": "46.3606",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "13",
+        "Country": "Azerbaijan",
+        "City": "Sumqayit",
+        "Latitude": "40.5897",
+        "Longitude": "49.6686",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "14",
+        "Country": "Azerbaijan",
+        "City": "Lankaran",
+        "Latitude": "38.7547",
+        "Longitude": "48.8504",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "15",
+        "Country": "Azerbaijan",
+        "City": "Mingachevir",
+        "Latitude": "40.7639",
+        "Longitude": "47.0594",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "16",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Latitude": "26.2285",
+        "Longitude": "50.586",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "17",
+        "Country": "Bahrain",
+        "City": "Muharraq",
+        "Latitude": "26.2572",
+        "Longitude": "50.6119",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "18",
+        "Country": "Bahrain",
+        "City": "Riffa",
+        "Latitude": "26.13",
+        "Longitude": "50.55",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "19",
+        "Country": "Bahrain",
+        "City": "Hamad Town",
+        "Latitude": "26.1153",
+        "Longitude": "50.5069",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "20",
+        "Country": "Bahrain",
+        "City": "Sitra",
+        "Latitude": "26.1547",
+        "Longitude": "50.6206",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "21",
+        "Country": "Djibouti",
+        "City": "Djibouti City",
+        "Latitude": "11.5721",
+        "Longitude": "43.1456",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "22",
+        "Country": "Djibouti",
+        "City": "Ali Sabieh",
+        "Latitude": "11.1558",
+        "Longitude": "42.7125",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "23",
+        "Country": "Djibouti",
+        "City": "Tadjoura",
+        "Latitude": "11.7853",
+        "Longitude": "42.8817",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "24",
+        "Country": "Djibouti",
+        "City": "Obock",
+        "Latitude": "11.9667",
+        "Longitude": "43.2833",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "25",
+        "Country": "Djibouti",
+        "City": "Dikhil",
+        "Latitude": "11.1111",
+        "Longitude": "42.3725",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "26",
+        "Country": "Egypt",
+        "City": "Cairo",
+        "Latitude": "30.0444",
+        "Longitude": "31.2357",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "27",
+        "Country": "Egypt",
+        "City": "Alexandria",
+        "Latitude": "31.2001",
+        "Longitude": "29.9187",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "28",
+        "Country": "Egypt",
+        "City": "Giza",
+        "Latitude": "30.0131",
+        "Longitude": "31.2089",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "29",
+        "Country": "Egypt",
+        "City": "Port Said",
+        "Latitude": "31.2565",
+        "Longitude": "32.2841",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "30",
+        "Country": "Egypt",
+        "City": "Luxor",
+        "Latitude": "25.6872",
+        "Longitude": "32.6396",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "31",
+        "Country": "Egypt",
+        "City": "Mansoura",
+        "Latitude": "31.0409",
+        "Longitude": "31.3785",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "32",
+        "Country": "Egypt",
+        "City": "Tanta",
+        "Latitude": "30.7865",
+        "Longitude": "31.0004",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "33",
+        "Country": "Egypt",
+        "City": "Asyut",
+        "Latitude": "27.1783",
+        "Longitude": "31.1859",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "34",
+        "Country": "Egypt",
+        "City": "Hurghada",
+        "Latitude": "27.2579",
+        "Longitude": "33.8116",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "35",
+        "Country": "Egypt",
+        "City": "Aswan",
+        "Latitude": "24.0889",
+        "Longitude": "32.8998",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "36",
+        "Country": "Egypt",
+        "City": "Ismailia",
+        "Latitude": "30.6043",
+        "Longitude": "32.2723",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "37",
+        "Country": "Egypt",
+        "City": "Fayoum",
+        "Latitude": "29.3084",
+        "Longitude": "30.8428",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "38",
+        "Country": "Egypt",
+        "City": "Minya",
+        "Latitude": "28.0871",
+        "Longitude": "30.7618",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "39",
+        "Country": "Egypt",
+        "City": "Damietta",
+        "Latitude": "31.4175",
+        "Longitude": "31.8144",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "40",
+        "Country": "Egypt",
+        "City": "Suez",
+        "Latitude": "29.9668",
+        "Longitude": "32.5498",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "41",
+        "Country": "Iran",
+        "City": "Tehran",
+        "Latitude": "35.6892",
+        "Longitude": "51.389",
+        "GMT Offset": "3.5"
+    },
+    {
+        "ID": "42",
+        "Country": "Iran",
+        "City": "Mashhad",
+        "Latitude": "36.2972",
+        "Longitude": "59.6067",
+        "GMT Offset": "3.5"
+    },
+    {
+        "ID": "43",
+        "Country": "Iran",
+        "City": "Isfahan",
+        "Latitude": "32.6546",
+        "Longitude": "51.668",
+        "GMT Offset": "3.5"
+    },
+    {
+        "ID": "44",
+        "Country": "Iran",
+        "City": "Shiraz",
+        "Latitude": "29.5918",
+        "Longitude": "52.5837",
+        "GMT Offset": "3.5"
+    },
+    {
+        "ID": "45",
+        "Country": "Iran",
+        "City": "Tabriz",
+        "Latitude": "38.0962",
+        "Longitude": "46.2738",
+        "GMT Offset": "3.5"
+    },
+    {
+        "ID": "46",
+        "Country": "Iraq",
+        "City": "Baghdad",
+        "Latitude": "33.3152",
+        "Longitude": "44.3661",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "47",
+        "Country": "Iraq",
+        "City": "Basra",
+        "Latitude": "30.5081",
+        "Longitude": "47.7835",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "48",
+        "Country": "Iraq",
+        "City": "Mosul",
+        "Latitude": "36.3489",
+        "Longitude": "43.1577",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "49",
+        "Country": "Iraq",
+        "City": "Erbil",
+        "Latitude": "36.1901",
+        "Longitude": "44.0091",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "50",
+        "Country": "Iraq",
+        "City": "Najaf",
+        "Latitude": "32.0259",
+        "Longitude": "44.3463",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "51",
+        "Country": "Iraq",
+        "City": "Kirkuk",
+        "Latitude": "35.4681",
+        "Longitude": "44.3922",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "52",
+        "Country": "Iraq",
+        "City": "Karbala",
+        "Latitude": "32.616",
+        "Longitude": "44.0249",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "53",
+        "Country": "Iraq",
+        "City": "Sulaymaniyah",
+        "Latitude": "35.5617",
+        "Longitude": "45.4408",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "54",
+        "Country": "Iraq",
+        "City": "Ramadi",
+        "Latitude": "33.4246",
+        "Longitude": "43.3039",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "55",
+        "Country": "Iraq",
+        "City": "Amara",
+        "Latitude": "31.8465",
+        "Longitude": "47.1458",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "56",
+        "Country": "Iraq",
+        "City": "Ramadi",
+        "Latitude": "33.4246",
+        "Longitude": "43.3039",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "57",
+        "Country": "Iraq",
+        "City": "Hillah",
+        "Latitude": "32.4844",
+        "Longitude": "44.4225",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "58",
+        "Country": "Iraq",
+        "City": "Diwaniyah",
+        "Latitude": "31.9861",
+        "Longitude": "44.9189",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "59",
+        "Country": "Iraq",
+        "City": "Kut",
+        "Latitude": "32.5039",
+        "Longitude": "45.8239",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "60",
+        "Country": "Iraq",
+        "City": "Baqubah",
+        "Latitude": "33.7431",
+        "Longitude": "44.6469",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "61",
+        "Country": "Jordan",
+        "City": "Amman",
+        "Latitude": "31.9454",
+        "Longitude": "35.9284",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "62",
+        "Country": "Jordan",
+        "City": "Zarqa",
+        "Latitude": "32.0608",
+        "Longitude": "36.0942",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "63",
+        "Country": "Jordan",
+        "City": "Irbid",
+        "Latitude": "32.5568",
+        "Longitude": "35.8469",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "64",
+        "Country": "Jordan",
+        "City": "Aqaba",
+        "Latitude": "29.5319",
+        "Longitude": "35.0061",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "65",
+        "Country": "Jordan",
+        "City": "Madaba",
+        "Latitude": "31.7175",
+        "Longitude": "35.793",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "66",
+        "Country": "Kazakhstan",
+        "City": "Astana",
+        "Latitude": "51.1605",
+        "Longitude": "71.4272",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "67",
+        "Country": "Kazakhstan",
+        "City": "Almaty",
+        "Latitude": "43.2389",
+        "Longitude": "76.8897",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "68",
+        "Country": "Kazakhstan",
+        "City": "Shymkent",
+        "Latitude": "42.3249",
+        "Longitude": "69.5901",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "69",
+        "Country": "Kazakhstan",
+        "City": "Karaganda",
+        "Latitude": "49.8019",
+        "Longitude": "73.1021",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "70",
+        "Country": "Kazakhstan",
+        "City": "Aktobe",
+        "Latitude": "50.2839",
+        "Longitude": "57.1669",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "71",
+        "Country": "Kuwait",
+        "City": "Kuwait City",
+        "Latitude": "29.3759",
+        "Longitude": "47.9774",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "72",
+        "Country": "Kuwait",
+        "City": "Al Ahmadi",
+        "Latitude": "29.0769",
+        "Longitude": "48.0839",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "73",
+        "Country": "Kuwait",
+        "City": "Hawalli",
+        "Latitude": "29.3375",
+        "Longitude": "48.0275",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "74",
+        "Country": "Kuwait",
+        "City": "Salmiya",
+        "Latitude": "29.3333",
+        "Longitude": "48.0667",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "75",
+        "Country": "Kuwait",
+        "City": "Jahra",
+        "Latitude": "29.3375",
+        "Longitude": "47.6581",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "76",
+        "Country": "Kyrgyzstan",
+        "City": "Bishkek",
+        "Latitude": "42.8746",
+        "Longitude": "74.5698",
+        "GMT Offset": "6"
+    },
+    {
+        "ID": "77",
+        "Country": "Kyrgyzstan",
+        "City": "Osh",
+        "Latitude": "40.5139",
+        "Longitude": "72.8161",
+        "GMT Offset": "6"
+    },
+    {
+        "ID": "78",
+        "Country": "Kyrgyzstan",
+        "City": "Jalal-Abad",
+        "Latitude": "40.9333",
+        "Longitude": "73.0",
+        "GMT Offset": "6"
+    },
+    {
+        "ID": "79",
+        "Country": "Kyrgyzstan",
+        "City": "Karakol",
+        "Latitude": "42.4907",
+        "Longitude": "78.3936",
+        "GMT Offset": "6"
+    },
+    {
+        "ID": "80",
+        "Country": "Kyrgyzstan",
+        "City": "Tokmok",
+        "Latitude": "42.8419",
+        "Longitude": "75.3014",
+        "GMT Offset": "6"
+    },
+    {
+        "ID": "81",
+        "Country": "Lebanon",
+        "City": "Beirut",
+        "Latitude": "33.8938",
+        "Longitude": "35.5018",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "82",
+        "Country": "Lebanon",
+        "City": "Tripoli",
+        "Latitude": "34.4333",
+        "Longitude": "35.8333",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "83",
+        "Country": "Lebanon",
+        "City": "Sidon",
+        "Latitude": "33.5631",
+        "Longitude": "35.3731",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "84",
+        "Country": "Lebanon",
+        "City": "Tyre",
+        "Latitude": "33.2708",
+        "Longitude": "35.1961",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "85",
+        "Country": "Lebanon",
+        "City": "Zahle",
+        "Latitude": "33.8439",
+        "Longitude": "35.9022",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "86",
+        "Country": "Libya",
+        "City": "Tripoli",
+        "Latitude": "32.8872",
+        "Longitude": "13.1913",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "87",
+        "Country": "Libya",
+        "City": "Benghazi",
+        "Latitude": "32.1167",
+        "Longitude": "20.0667",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "88",
+        "Country": "Libya",
+        "City": "Misrata",
+        "Latitude": "32.3754",
+        "Longitude": "15.0925",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "89",
+        "Country": "Libya",
+        "City": "Bayda",
+        "Latitude": "32.7628",
+        "Longitude": "21.7551",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "90",
+        "Country": "Libya",
+        "City": "Tobruk",
+        "Latitude": "32.0836",
+        "Longitude": "23.9764",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "91",
+        "Country": "Mauritania",
+        "City": "Nouakchott",
+        "Latitude": "18.0735",
+        "Longitude": "-15.9582",
+        "GMT Offset": "0"
+    },
+    {
+        "ID": "92",
+        "Country": "Mauritania",
+        "City": "Nouadhibou",
+        "Latitude": "20.931",
+        "Longitude": "-17.0347",
+        "GMT Offset": "0"
+    },
+    {
+        "ID": "93",
+        "Country": "Mauritania",
+        "City": "Kiffa",
+        "Latitude": "16.6167",
+        "Longitude": "-11.4",
+        "GMT Offset": "0"
+    },
+    {
+        "ID": "94",
+        "Country": "Mauritania",
+        "City": "Rosso",
+        "Latitude": "16.5133",
+        "Longitude": "-15.805",
+        "GMT Offset": "0"
+    },
+    {
+        "ID": "95",
+        "Country": "Mauritania",
+        "City": "Kaédi",
+        "Latitude": "16.15",
+        "Longitude": "-13.5",
+        "GMT Offset": "0"
+    },
+    {
+        "ID": "96",
+        "Country": "Morocco",
+        "City": "Casablanca",
+        "Latitude": "33.5731",
+        "Longitude": "-7.5898",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "97",
+        "Country": "Morocco",
+        "City": "Rabat",
+        "Latitude": "34.0209",
+        "Longitude": "-6.8416",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "98",
+        "Country": "Morocco",
+        "City": "Marrakesh",
+        "Latitude": "31.6295",
+        "Longitude": "-7.9811",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "99",
+        "Country": "Morocco",
+        "City": "Fes",
+        "Latitude": "34.0181",
+        "Longitude": "-5.0078",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "100",
+        "Country": "Morocco",
+        "City": "Tangier",
+        "Latitude": "35.7595",
+        "Longitude": "-5.834",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "101",
+        "Country": "Morocco",
+        "City": "Agadir",
+        "Latitude": "30.4278",
+        "Longitude": "-9.5981",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "102",
+        "Country": "Morocco",
+        "City": "Meknes",
+        "Latitude": "33.8935",
+        "Longitude": "-5.5473",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "103",
+        "Country": "Morocco",
+        "City": "Oujda",
+        "Latitude": "34.6805",
+        "Longitude": "-1.9076",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "104",
+        "Country": "Morocco",
+        "City": "Kenitra",
+        "Latitude": "34.261",
+        "Longitude": "-6.5802",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "105",
+        "Country": "Morocco",
+        "City": "Tetouan",
+        "Latitude": "35.5785",
+        "Longitude": "-5.3684",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "106",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Latitude": "23.5859",
+        "Longitude": "58.4059",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "107",
+        "Country": "Oman",
+        "City": "Salalah",
+        "Latitude": "17.0151",
+        "Longitude": "54.0924",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "108",
+        "Country": "Oman",
+        "City": "Seeb",
+        "Latitude": "23.6703",
+        "Longitude": "58.1891",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "109",
+        "Country": "Oman",
+        "City": "Sohar",
+        "Latitude": "24.3461",
+        "Longitude": "56.7072",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "110",
+        "Country": "Oman",
+        "City": "Nizwa",
+        "Latitude": "22.9333",
+        "Longitude": "57.5333",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "111",
+        "Country": "Oman",
+        "City": "Salalah",
+        "Latitude": "17.0151",
+        "Longitude": "54.0924",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "112",
+        "Country": "Oman",
+        "City": "Sohar",
+        "Latitude": "24.3461",
+        "Longitude": "56.7072",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "113",
+        "Country": "Oman",
+        "City": "Nizwa",
+        "Latitude": "22.9333",
+        "Longitude": "57.5333",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "114",
+        "Country": "Oman",
+        "City": "Sur",
+        "Latitude": "22.5667",
+        "Longitude": "59.5289",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "115",
+        "Country": "Oman",
+        "City": "Ibri",
+        "Latitude": "23.2333",
+        "Longitude": "56.5167",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "116",
+        "Country": "Pakistan",
+        "City": "Karachi",
+        "Latitude": "24.8607",
+        "Longitude": "67.0011",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "117",
+        "Country": "Pakistan",
+        "City": "Lahore",
+        "Latitude": "31.5204",
+        "Longitude": "74.3587",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "118",
+        "Country": "Pakistan",
+        "City": "Islamabad",
+        "Latitude": "33.6844",
+        "Longitude": "73.0479",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "119",
+        "Country": "Pakistan",
+        "City": "Faisalabad",
+        "Latitude": "31.4504",
+        "Longitude": "73.135",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "120",
+        "Country": "Pakistan",
+        "City": "Peshawar",
+        "Latitude": "34.0151",
+        "Longitude": "71.5249",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "121",
+        "Country": "Palestine",
+        "City": "Jerusalem",
+        "Latitude": "31.7683",
+        "Longitude": "35.2137",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "122",
+        "Country": "Palestine",
+        "City": "Gaza City",
+        "Latitude": "31.5017",
+        "Longitude": "34.4668",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "123",
+        "Country": "Palestine",
+        "City": "Hebron",
+        "Latitude": "31.5297",
+        "Longitude": "35.0999",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "124",
+        "Country": "Palestine",
+        "City": "Nablus",
+        "Latitude": "32.2211",
+        "Longitude": "35.2544",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "125",
+        "Country": "Palestine",
+        "City": "Ramallah",
+        "Latitude": "31.9029",
+        "Longitude": "35.2043",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "126",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Latitude": "25.2854",
+        "Longitude": "51.531",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "127",
+        "Country": "Qatar",
+        "City": "Al Wakrah",
+        "Latitude": "25.1768",
+        "Longitude": "51.6048",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "128",
+        "Country": "Qatar",
+        "City": "Al Khor",
+        "Latitude": "25.6839",
+        "Longitude": "51.5058",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "129",
+        "Country": "Qatar",
+        "City": "Al Rayyan",
+        "Latitude": "25.2925",
+        "Longitude": "51.4244",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "130",
+        "Country": "Qatar",
+        "City": "Madinat ash Shamal",
+        "Latitude": "26.1293",
+        "Longitude": "51.2166",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "131",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Latitude": "24.7136",
+        "Longitude": "46.6753",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "132",
+        "Country": "Saudi Arabia",
+        "City": "Jeddah",
+        "Latitude": "21.5433",
+        "Longitude": "39.1728",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "133",
+        "Country": "Saudi Arabia",
+        "City": "Mecca",
+        "Latitude": "21.3891",
+        "Longitude": "39.8579",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "134",
+        "Country": "Saudi Arabia",
+        "City": "Medina",
+        "Latitude": "24.5247",
+        "Longitude": "39.5692",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "135",
+        "Country": "Saudi Arabia",
+        "City": "Dammam",
+        "Latitude": "26.4312",
+        "Longitude": "50.1033",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "136",
+        "Country": "Saudi Arabia",
+        "City": "Ha'il",
+        "Latitude": "27.5219",
+        "Longitude": "41.6961",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "137",
+        "Country": "Saudi Arabia",
+        "City": "Jazan",
+        "Latitude": "16.8892",
+        "Longitude": "42.5511",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "138",
+        "Country": "Saudi Arabia",
+        "City": "Najran",
+        "Latitude": "17.4933",
+        "Longitude": "44.1272",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "139",
+        "Country": "Saudi Arabia",
+        "City": "Jubail",
+        "Latitude": "27.0112",
+        "Longitude": "49.6583",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "140",
+        "Country": "Saudi Arabia",
+        "City": "Al Bahah",
+        "Latitude": "20.0125",
+        "Longitude": "41.4653",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "141",
+        "Country": "Somalia",
+        "City": "Mogadishu",
+        "Latitude": "2.0469",
+        "Longitude": "45.3182",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "142",
+        "Country": "Somalia",
+        "City": "Hargeisa",
+        "Latitude": "9.5624",
+        "Longitude": "44.067",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "143",
+        "Country": "Somalia",
+        "City": "Berbera",
+        "Latitude": "10.4396",
+        "Longitude": "45.0125",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "144",
+        "Country": "Somalia",
+        "City": "Kismayo",
+        "Latitude": "-0.3582",
+        "Longitude": "42.5454",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "145",
+        "Country": "Somalia",
+        "City": "Baidoa",
+        "Latitude": "3.1133",
+        "Longitude": "43.6433",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "146",
+        "Country": "Sudan",
+        "City": "Khartoum",
+        "Latitude": "15.5007",
+        "Longitude": "32.5599",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "147",
+        "Country": "Sudan",
+        "City": "Omdurman",
+        "Latitude": "15.65",
+        "Longitude": "32.4833",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "148",
+        "Country": "Sudan",
+        "City": "Port Sudan",
+        "Latitude": "19.6175",
+        "Longitude": "37.2164",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "149",
+        "Country": "Sudan",
+        "City": "Nyala",
+        "Latitude": "12.05",
+        "Longitude": "24.8833",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "150",
+        "Country": "Sudan",
+        "City": "Kassala",
+        "Latitude": "15.451",
+        "Longitude": "36.4043",
+        "GMT Offset": "2"
+    },
+    {
+        "ID": "151",
+        "Country": "Syria",
+        "City": "Damascus",
+        "Latitude": "33.5131",
+        "Longitude": "36.2913",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "152",
+        "Country": "Syria",
+        "City": "Aleppo",
+        "Latitude": "36.2021",
+        "Longitude": "37.1343",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "153",
+        "Country": "Syria",
+        "City": "Homs",
+        "Latitude": "34.7324",
+        "Longitude": "36.7137",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "154",
+        "Country": "Syria",
+        "City": "Latakia",
+        "Latitude": "35.5317",
+        "Longitude": "35.7908",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "155",
+        "Country": "Syria",
+        "City": "Hama",
+        "Latitude": "35.1318",
+        "Longitude": "36.7578",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "156",
+        "Country": "Tajikistan",
+        "City": "Dushanbe",
+        "Latitude": "38.5358",
+        "Longitude": "68.7791",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "157",
+        "Country": "Tajikistan",
+        "City": "Khujand",
+        "Latitude": "40.2833",
+        "Longitude": "69.6167",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "158",
+        "Country": "Tajikistan",
+        "City": "Kulob",
+        "Latitude": "37.9153",
+        "Longitude": "69.7806",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "159",
+        "Country": "Tajikistan",
+        "City": "Bokhtar",
+        "Latitude": "37.8364",
+        "Longitude": "68.7803",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "160",
+        "Country": "Tajikistan",
+        "City": "Istaravshan",
+        "Latitude": "39.9139",
+        "Longitude": "69.0033",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "161",
+        "Country": "Tunisia",
+        "City": "Tunis",
+        "Latitude": "36.8065",
+        "Longitude": "10.1815",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "162",
+        "Country": "Tunisia",
+        "City": "Sfax",
+        "Latitude": "34.74",
+        "Longitude": "10.76",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "163",
+        "Country": "Tunisia",
+        "City": "Sousse",
+        "Latitude": "35.8256",
+        "Longitude": "10.6369",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "164",
+        "Country": "Tunisia",
+        "City": "Kairouan",
+        "Latitude": "35.6781",
+        "Longitude": "10.0963",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "165",
+        "Country": "Tunisia",
+        "City": "Bizerte",
+        "Latitude": "37.2744",
+        "Longitude": "9.8739",
+        "GMT Offset": "1"
+    },
+    {
+        "ID": "166",
+        "Country": "Turkey",
+        "City": "Istanbul",
+        "Latitude": "41.0082",
+        "Longitude": "28.9784",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "167",
+        "Country": "Turkey",
+        "City": "Ankara",
+        "Latitude": "39.9334",
+        "Longitude": "32.8597",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "168",
+        "Country": "Turkey",
+        "City": "Izmir",
+        "Latitude": "38.4237",
+        "Longitude": "27.1428",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "169",
+        "Country": "Turkey",
+        "City": "Bursa",
+        "Latitude": "40.1885",
+        "Longitude": "29.061",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "170",
+        "Country": "Turkey",
+        "City": "Konya",
+        "Latitude": "37.8714",
+        "Longitude": "32.4846",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "171",
+        "Country": "Turkey",
+        "City": "Adana",
+        "Latitude": "36.9914",
+        "Longitude": "35.3308",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "172",
+        "Country": "Turkey",
+        "City": "Gaziantep",
+        "Latitude": "37.0662",
+        "Longitude": "37.3833",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "173",
+        "Country": "Turkey",
+        "City": "Antalya",
+        "Latitude": "36.8841",
+        "Longitude": "30.7056",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "174",
+        "Country": "Turkey",
+        "City": "Diyarbakir",
+        "Latitude": "37.9144",
+        "Longitude": "40.211",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "175",
+        "Country": "Turkey",
+        "City": "Samsun",
+        "Latitude": "41.2867",
+        "Longitude": "36.33",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "176",
+        "Country": "Turkmenistan",
+        "City": "Ashgabat",
+        "Latitude": "37.9601",
+        "Longitude": "58.3262",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "177",
+        "Country": "Turkmenistan",
+        "City": "Turkmenabat",
+        "Latitude": "39.0739",
+        "Longitude": "63.5786",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "178",
+        "Country": "Turkmenistan",
+        "City": "Dasoguz",
+        "Latitude": "41.8361",
+        "Longitude": "59.9667",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "179",
+        "Country": "Turkmenistan",
+        "City": "Mary",
+        "Latitude": "37.5938",
+        "Longitude": "61.8311",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "180",
+        "Country": "Turkmenistan",
+        "City": "Balkanabat",
+        "Latitude": "39.51",
+        "Longitude": "54.3671",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "181",
+        "Country": "UAE",
+        "City": "Ras Al Khaimah",
+        "Latitude": "25.7895",
+        "Longitude": "55.9432",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "182",
+        "Country": "UAE",
+        "City": "Fujairah",
+        "Latitude": "25.1164",
+        "Longitude": "56.3414",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "183",
+        "Country": "UAE",
+        "City": "Umm Al Quwain",
+        "Latitude": "25.5647",
+        "Longitude": "55.5532",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "184",
+        "Country": "UAE",
+        "City": "Khor Fakkan",
+        "Latitude": "25.3313",
+        "Longitude": "56.3419",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "185",
+        "Country": "UAE",
+        "City": "Kalba",
+        "Latitude": "25.044",
+        "Longitude": "56.354",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "186",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Latitude": "24.4539",
+        "Longitude": "54.3773",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "187",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Latitude": "25.2048",
+        "Longitude": "55.2708",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "188",
+        "Country": "United Arab Emirates",
+        "City": "Sharjah",
+        "Latitude": "25.3463",
+        "Longitude": "55.4209",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "189",
+        "Country": "United Arab Emirates",
+        "City": "Al Ain",
+        "Latitude": "24.1148",
+        "Longitude": "55.7224",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "190",
+        "Country": "United Arab Emirates",
+        "City": "Ajman",
+        "Latitude": "25.4052",
+        "Longitude": "55.5136",
+        "GMT Offset": "4"
+    },
+    {
+        "ID": "191",
+        "Country": "Uzbekistan",
+        "City": "Tashkent",
+        "Latitude": "41.2995",
+        "Longitude": "69.2401",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "192",
+        "Country": "Uzbekistan",
+        "City": "Samarkand",
+        "Latitude": "39.627",
+        "Longitude": "66.975",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "193",
+        "Country": "Uzbekistan",
+        "City": "Bukhara",
+        "Latitude": "39.7747",
+        "Longitude": "64.4286",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "194",
+        "Country": "Uzbekistan",
+        "City": "Namangan",
+        "Latitude": "40.9983",
+        "Longitude": "71.6726",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "195",
+        "Country": "Uzbekistan",
+        "City": "Andijan",
+        "Latitude": "40.7821",
+        "Longitude": "72.3442",
+        "GMT Offset": "5"
+    },
+    {
+        "ID": "196",
+        "Country": "Yemen",
+        "City": "Sana'a",
+        "Latitude": "15.3694",
+        "Longitude": "44.191",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "197",
+        "Country": "Yemen",
+        "City": "Aden",
+        "Latitude": "12.7855",
+        "Longitude": "45.0186",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "198",
+        "Country": "Yemen",
+        "City": "Taiz",
+        "Latitude": "13.5795",
+        "Longitude": "44.0209",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "199",
+        "Country": "Yemen",
+        "City": "Al Hudaydah",
+        "Latitude": "14.7979",
+        "Longitude": "42.953",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "200",
+        "Country": "Yemen",
+        "City": "Mukalla",
+        "Latitude": "14.5425",
+        "Longitude": "49.1242",
+        "GMT Offset": "3"
+    }
+]
