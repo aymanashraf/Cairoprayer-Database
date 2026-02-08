@@ -18,7 +18,7 @@
     {
         "ID": "3",
         "Country": "Afghanistan",
-        "City": "Herat",
+        "City": "Heraat",
         "Latitude": "34.3419",
         "Longitude": "62.2031",
         "GMT Offset": "4.5"
@@ -1599,4 +1599,5 @@
         "Longitude": "49.1242",
         "GMT Offset": "3"
     }
+
 ]
