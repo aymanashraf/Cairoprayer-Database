@@ -1622,8 +1622,25 @@
         "Latitude": "14.5570",
         "Longitude": "44.4050",
         "GMT Offset": "3"
+    },
+     {
+        "ID": "204",
+        "Country": "Yemen",
+        "City": "Seiyun",
+        "Latitude": "15.9594",
+        "Longitude": "48.7883",
+        "GMT Offset": "3"
+    },
+    {
+        "ID": "205",
+        "Country": "Yemen",
+        "City": "Hajjah",
+        "Latitude": "15.6943",
+        "Longitude": "43.6053",
+        "GMT Offset": "3"
     }
 
 
 ]
+
 
