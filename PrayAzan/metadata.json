@@ -3,36 +3,42 @@
     "filename": "azan_haram.bin",
     "description": "اذان الحرم المكي",
     "muazzin": "الحرم المكي",
-    "short": 10
+    "short": 10,
+    "medium": 20
   },
   {
     "filename": "azan_katami.bin",
     "description": "الأذان بصوت الشيخ ناصر القطامي",
     "muazzin": "ناصر القطامي",
-    "short": 10
+    "short": 10,
+    "medium": 20
   },
   {
     "filename": "azan_marwan.bin",
     "description": "الأذان بصوت المؤذن محمد بن مروان",
     "muazzin": "محمد بن مروان",
-    "short": 10
+    "short": 10,
+    "medium": 20
   },
   {
     "filename": "azan_mshari.bin",
     "description": "الأذان بصوت الشيخ مشاري الراشد العفاسي (النسخة الأولى)",
     "muazzin": "مشاري العفاسي",
-    "short": 10
+    "short": 10,
+    "medium": 20
   },
   {
     "filename": "azan_mshari2.bin",
     "description": "الأذان بصوت الشيخ مشاري الراشد العفاسي (النسخة الثانية)",
     "muazzin": "مشاري العفاسي",
-    "short": 10
+    "short": 10,
+    "medium": 20
   },
  {
     "filename": "azan_subhi.bin",
     "description": "الأذان بصوت الشيخ إسلام صبحي",
     "muazzin": "اسلام صبحي",
-    "short": 10
+    "short": 10,
+    "medium": 20
   }
 ]
