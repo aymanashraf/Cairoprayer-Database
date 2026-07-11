@@ -1,0 +1,47 @@
+[
+  {
+    "filename": "Msg_Fajr.bin",
+    "description": "تنبيه صلاة الفجر",
+    "type": ""
+  },
+  {
+    "filename": "Msg_Duhur.bin",
+    "description": "تنبيه صلاة الظهر",
+    "type": ""
+  },
+  {
+    "filename": "Msg_Asr.bin",
+    "description": "تنبيه صلاة العصر",
+    "type": ""
+  },
+  {
+    "filename": "Msg_Maghrib.bin",
+    "description": "تنبيه صلاة المغرب",
+    "type": ""
+  },
+  {
+    "filename": "Msg_Isha.bin",
+    "description": "تنبيه صلاة العشاء",
+    "type": ""
+  },
+  {
+    "filename": "Msg_Gomaa.bin",
+    "description": "تنبيه صلاة الجمعة",
+    "type": ""
+  },
+  {
+    "filename": "Msg_SalatSoon.bin",
+    "description": "اقترب موعد الصلاة",
+    "type": ""
+  },
+  {
+    "filename": "Msg_Suhur.bin",
+    "description": "تنبيه وقت السحور",
+    "type": "reminder"
+  },
+  {
+    "filename": "Msg_Now.bin",
+    "description": "تنبيه: حان الآن موعد الصلاة",
+    "type": "reminder"
+  }
+]
