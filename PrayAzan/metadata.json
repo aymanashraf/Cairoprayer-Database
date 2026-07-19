@@ -33,5 +33,12 @@
     "muazzin": "مشاري العفاسي",
     "short": 17,
     "medium": 36
+  },
+  {
+    "filename": "azan_islam_2.bin",
+    "description": "الاذان بصوت الشيخ اسلام صبحي",
+    "muazzin": "اسلام صبحي",
+    "short": 15,
+    "medium": 34
   }
 ]
