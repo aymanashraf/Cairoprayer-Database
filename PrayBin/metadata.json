@@ -4,5 +4,11 @@
     "description": "برنامج مواقيت الصلاة - الإصدار الأول",
     "version": "1.0.0",
     "release_date": "2026-07-19"
+  },
+  {
+    "filename": "PRAYER_R1_1_0.bin",
+    "description": "برنامج مواقيت الصلاة - الإصدار الثاني",
+    "version": "1.1.0",
+    "release_date": "2026-07-19"
   }
 ]
