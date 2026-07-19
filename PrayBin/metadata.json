@@ -7,8 +7,14 @@
   },
   {
     "filename": "PRAYER_R1_1_0.bin",
-    "description": "برنامج مواقيت الصلاة - الإصدار الثاني",
+    "description": "برنامج مواقيت الصلاة - الإصدار الاول تحديث رقم 1",
     "version": "1.1.0",
     "release_date": "2026-07-19"
-  }
+  },
+  {
+    "filename": "PRAYER_R1_2_0.bin",
+    "description": "برنامج مواقيت الصلاة - الاصدار الثاني تحديث رقم 2",
+    "version": "1.2.0",
+    "release_date": "2026-07-19"
+  }   
 ]
