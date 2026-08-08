@@ -40,5 +40,12 @@
     "muazzin": "اسلام صبحي",
     "short": 15,
     "medium": 34
+  },
+  {
+    "filename": "azan_mshari_3.bin",
+    "description": "الأذان بصوت الشيخ مشاري الراشد العفاسي (النسخة الثالثة)",
+    "muazzin": "مشاري العفاسي",
+    "short": 4,
+    "medium": 19
   }
 ]
