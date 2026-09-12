@@ -5,8 +5,18 @@
     "type": ""
   },
   {
+    "filename": "Msg_Fajr_12.bin",
+    "description": "تنبيه صلاة الفجر (جودة صوت أعلى)",
+    "type": ""
+  },
+  {
     "filename": "Msg_Duhur.bin",
     "description": "تنبيه صلاة الظهر",
+    "type": ""
+  },
+  {
+    "filename": "Msg_Duhur_12.bin",
+    "description": "تنبيه صلاة الظهر (جودة صوت أعلى)",
     "type": ""
   },
   {
@@ -15,13 +25,28 @@
     "type": ""
   },
   {
+    "filename": "Msg_Asr_12.bin",
+    "description": "تنبيه صلاة العصر (جودة صوت أعلى)",
+    "type": ""
+  },
+  {
     "filename": "Msg_Maghrib.bin",
     "description": "تنبيه صلاة المغرب",
     "type": ""
   },
   {
+    "filename": "Msg_Maghrib_12.bin",
+    "description": "تنبيه صلاة المغرب (جودة صوت أعلى)",
+    "type": ""
+  },
+  {
     "filename": "Msg_Isha.bin",
     "description": "تنبيه صلاة العشاء",
+    "type": ""
+  },
+  {
+    "filename": "Msg_Isha_12.bin",
+    "description": "تنبيه صلاة العشاء (جودة صوت أعلى)",
     "type": ""
   },
   {
