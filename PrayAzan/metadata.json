@@ -40,5 +40,19 @@
     "muazzin": "اسلام صبحي",
     "short": 15,
     "medium": 34
+  },
+  {
+    "filename": "azan_aakl_12.bin",
+    "description": "الاذان بصوت الشيخ علاء عقل",
+    "muazzin": "علاء عقل",
+    "short": 16,
+    "medium": 49
+  },
+  {
+    "filename": "azan_tarek_12.bin",
+    "description": "الاذان بصوت الشيخ محمد طارق",
+    "muazzin": "محمد طارق",
+    "short": 16,
+    "medium": 42
   }
 ]
